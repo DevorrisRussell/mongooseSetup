@@ -1,0 +1,4 @@
+{
+"mongoURI": "mongodb+srv://druss1858:Broncos@cluster0.ivlpt.mongodb.net/student-app?retryWrites=true&w=majority"
+ 
+}
